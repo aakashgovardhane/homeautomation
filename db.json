@@ -1,5 +1,5 @@
 {
-  "posts": ["led1" => "HIGH","led2"="LOW"],
+  "posts": ["led1" : "HIGH","led2" : "LOW"],
   "profile": {
     "name": "typicode"
   }
