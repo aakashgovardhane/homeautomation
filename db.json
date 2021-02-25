@@ -1,5 +1,11 @@
+  
 {
-  "posts": [1,0],
+  "posts": [
+    {
+      "led":"LOW",
+      "title": "hello"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
