@@ -2,7 +2,7 @@
 {
   "posts":
     {
-      "led":"LOW",
+      "led":"on",
       "title": "hello"
     }
   ,
