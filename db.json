@@ -1,12 +1,7 @@
   
 {
-  "posts":
-    {
-      "led":1 ,
-      "title": "hello"
-    }
-  ,
-  "profile": {
-    "name": "typicode"
-  }
+  "app1state": 1,
+  "app2state": 1,
+  "app3state": 1,
+  "app4state": 1 ,
 }
